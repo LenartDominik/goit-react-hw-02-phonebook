@@ -41,5 +41,8 @@
     "development": [
       "last 1 chrome version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
   }
 }
