@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-     "lint": "eslint --ext=.jsx,.js,.tsx,.ts"
+    "lint": "eslint --ext=.jsx,.js,.tsx,.ts"
   },
   "eslintConfig": {
     "extends": "react-app",
@@ -45,5 +45,10 @@
   },
   "devDependencies": {
     "eslint": "^8.36.0"
-  }
+  },
+  "description": "This project was created with\r [Create React App](https://github.com/facebook/create-react-app). To get\r acquainted and configure additional features\r [refer to documentation](https://facebook.github.io/create-react-app/docs/getting-started).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
