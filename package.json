@@ -19,7 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint --ext=.jsx,.js,.tsx,.ts"
+    "lint:js": "eslint src/**/*.{js,jsx}",
+    "lint:ts": "eslint src/**/*.{ts,tsx}"
   },
   "eslintConfig": {
     "extends": "react-app",
